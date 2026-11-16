@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-legacy-application-support"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS legacy-application-support component - compatibility"
+
+[lib]
+name = "legacy_application_support"
+path = "src/lib.rs"
