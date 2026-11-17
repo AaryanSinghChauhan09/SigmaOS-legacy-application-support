@@ -3,7 +3,7 @@ name = "SigmaOS-legacy-application-support"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "legacy-application-support component"
+description = "Legacy Application Support"
 upstream = []
 
 [contract]
